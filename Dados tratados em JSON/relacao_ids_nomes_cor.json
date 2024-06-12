@@ -1,0 +1,1868 @@
+[
+    {
+        "NOME": "A. MUNHOZ / J. BOTÂNICO",
+        "COD": "464",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "ABAETÉ",
+        "COD": "226",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "ABRANCHES",
+        "COD": "182",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "ACRÓPOLE",
+        "COD": "332",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "AGRÍCOLA",
+        "COD": "334",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "ÁGUA VERDE/ ABRANCHES",
+        "COD": "180",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "AHÚ / LOS ANGELES",
+        "COD": "265",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "ALFERES POLI",
+        "COD": "560",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "ALIANÇA",
+        "COD": "232",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "ALTO BOQUEIRÃO",
+        "COD": "629",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "ALTO TARUMÃ",
+        "COD": "373",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "ANITA GARIBALDI",
+        "COD": "245",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "ARAGUAIA",
+        "COD": "311",
+        "SOMENTE_CARTAO": "F",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "AUGUSTA",
+        "COD": "823",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "AUGUSTA/V. MARQUETO",
+        "COD": "820",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "AUGUSTO STRESSER",
+        "COD": "361",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "B. ALTO / BOA VISTA",
+        "COD": "342",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "B. ALTO / STA. CÂNDIDA",
+        "COD": "341",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "B. ALTO / STA. FELICIDADE",
+        "COD": "307",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "PRATA"
+    },
+    {
+        "NOME": "BAIRRO NOVO",
+        "COD": "506",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "PRATA"
+    },
+    {
+        "NOME": "BAIRRO NOVO A",
+        "COD": "541",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "BAIRRO NOVO B",
+        "COD": "542",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "BAIRRO NOVO B/C",
+        "COD": "524",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "BAIRRO NOVO C",
+        "COD": "547",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "BANESTADO / CALIFÓRNIA",
+        "COD": "231",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "BARREIRINHA",
+        "COD": "205",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "BARREIRINHA/GUADALUPE",
+        "COD": "256",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "PRATA"
+    },
+    {
+        "NOME": "BIGORRILHO",
+        "COD": "875",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "BOA VISTA / BARREIRINHA",
+        "COD": "225",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "BOM RETIRO / CABRAL",
+        "COD": "201",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "BOM RETIRO / PUC",
+        "COD": "175",
+        "SOMENTE_CARTAO": "F",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "BOQUEIRÃO",
+        "COD": "503",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "VERMELHA"
+    },
+    {
+        "NOME": "BOQUEIRÃO / C. CÍVICO",
+        "COD": "505",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "PRATA"
+    },
+    {
+        "NOME": "BOQUEIRAO / MONDELEZ",
+        "COD": "540",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "BOQUEIRÃO/PINHEIRINHO",
+        "COD": "528",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "BOSCH",
+        "COD": "627",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "BRACATINGA",
+        "COD": "170",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "BUTIATUVINHA",
+        "COD": "913",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "BUTIATUVINHA/ OURO VERDE",
+        "COD": "948",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "C. BELEM / S. FILHO",
+        "COD": "516",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "C. COMPRIDO / C. RASO",
+        "COD": "828",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "C. COMPRIDO / CIC",
+        "COD": "826",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "C. IMBUIA / PQ. BARIGUI",
+        "COD": "393",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "C. MÚSICA / V. ALEGRE",
+        "COD": "150",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "C. RASO / C. DO SIQUEIRA",
+        "COD": "027",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "VERDE"
+    },
+    {
+        "NOME": "C. RASO / CAIUÁ",
+        "COD": "658",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "C. RASO / CAMP. SIQUEIRA",
+        "COD": "024",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "PRATA"
+    },
+    {
+        "NOME": "CABRAL / C.RASO",
+        "COD": "202",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "VERMELHA"
+    },
+    {
+        "NOME": "CABRAL / OSÓRIO",
+        "COD": "207",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "CABRAL / PORTÃO",
+        "COD": "216",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "CAIUÁ",
+        "COD": "703",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "CAIUA / C.COMPRIDO",
+        "COD": "732",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "CAIUA/CACHOEIRA",
+        "COD": "702",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "PRATA"
+    },
+    {
+        "NOME": "CAIUA/FAZ/CENTRO",
+        "COD": "706",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "CAJURU",
+        "COD": "386",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "CAMARGO",
+        "COD": "322",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "CAMP. SIQUEIRA / BATEL",
+        "COD": "801",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "CAMP. SIQUEIRA / STA.FELICIDADE",
+        "COD": "816",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "CAMPO ALEGRE",
+        "COD": "654",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "CANAL BELÉM",
+        "COD": "475",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "CARBOMAFRA",
+        "COD": "628",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "CARMELA DUTRA",
+        "COD": "776",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "CASA DE CUSTÓDIA",
+        "COD": "668",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "CASSIOPÉIA",
+        "COD": "224",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "CAXIMBA / OLARIA",
+        "COD": "659",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "CENTENÁRIO",
+        "COD": "305",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "PRATA"
+    },
+    {
+        "NOME": "CENTENÁRIO / BOQUEIRÃO",
+        "COD": "335",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "CENTENÁRIO / C. COMPRIDO",
+        "COD": "303",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "VERMELHA"
+    },
+    {
+        "NOME": "CENTENÁRIO / HAUER",
+        "COD": "338",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "CENTENÁRIO / RUI BARBOSA",
+        "COD": "302",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "VERMELHA"
+    },
+    {
+        "NOME": "CENTRO POLITÉCNICO",
+        "COD": "469",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "PRATA"
+    },
+    {
+        "NOME": "CIC / CAPAO RASO",
+        "COD": "X32",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "PRATA"
+    },
+    {
+        "NOME": "CIC/CABRAL",
+        "COD": "210",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "PRATA"
+    },
+    {
+        "NOME": "CIRCULAR CENTRO (ANTI-HORÁRIO)",
+        "COD": "002",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "BRANCA"
+    },
+    {
+        "NOME": "CIRCULAR CENTRO (HORÁRIO)",
+        "COD": "001",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "BRANCA"
+    },
+    {
+        "NOME": "CIRCULAR SUL (ANTI-HORÁRIO)",
+        "COD": "602",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "VERMELHA"
+    },
+    {
+        "NOME": "CIRCULAR SUL (HORÁRIO)",
+        "COD": "502",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "VERMELHA"
+    },
+    {
+        "NOME": "COLINA VERDE",
+        "COD": "211",
+        "SOMENTE_CARTAO": "F",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "COLOMBO / CIC",
+        "COD": "607",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "PRATA"
+    },
+    {
+        "NOME": "COTOLENGO",
+        "COD": "778",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "CRISTO REI",
+        "COD": "385",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "DALAGASSA",
+        "COD": "681",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "DETRAN / B. ALTO",
+        "COD": "340",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "PRATA"
+    },
+    {
+        "NOME": "DETRAN / VIC. MACHADO",
+        "COD": "380",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "DOM ÁTICO",
+        "COD": "662",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "E. VERÍSSIMO / PANTANAL",
+        "COD": "533",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "ERASTO GAERTNER",
+        "COD": "465",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "ESPECIAL BOQUEIRAO",
+        "COD": "X12",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "VERMELHA"
+    },
+    {
+        "NOME": "ESPECIAL HASDRUBAL BELLEGARD",
+        "COD": "X19",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "ESTRIBO AHÚ",
+        "COD": "266",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "ESTUDANTES",
+        "COD": "466",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "F. NORONHA / LARANJEIRAS",
+        "COD": "275",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "FANNY",
+        "COD": "621",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "FAZENDINHA",
+        "COD": "701",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "FAZENDINHA / C. COMPRIDO",
+        "COD": "720",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "FAZENDINHA / C.RASO",
+        "COD": "831",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "FAZENDINHA / PORTÃO",
+        "COD": "611",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "FAZENDINHA / PUC",
+        "COD": "614",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "FAZENDINHA/CAIUÁ-FORUM",
+        "COD": "719",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "FERNANDO DE NORONHA",
+        "COD": "270",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "FERNÃO DIAS",
+        "COD": "821",
+        "SOMENTE_CARTAO": "F",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "FORMOSA",
+        "COD": "673",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "FORUM/B.VISTA",
+        "COD": "716",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "FREDOLIN WOLF",
+        "COD": "167",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "FUTURAMA",
+        "COD": "639",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "FUTURAMA / S. CERCADO",
+        "COD": "683",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "GABINETO",
+        "COD": "822",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "GANCHINHO",
+        "COD": "642",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "GRAMADOS",
+        "COD": "625",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "GUABIROTUBA",
+        "COD": "470",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "GUILHERMINA",
+        "COD": "561",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "HAUER / BOQUEIRÃO",
+        "COD": "513",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "HIGIENÓPOLIS",
+        "COD": "371",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "HUGO LANGE",
+        "COD": "374",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "IGUAPE I",
+        "COD": "523",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "IGUAPE II",
+        "COD": "515",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "INTER 2 ( ANTI-HORÁRIO)",
+        "COD": "023",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "PRATA"
+    },
+    {
+        "NOME": "INTER 2 (HORÁRIO)",
+        "COD": "022",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "PRATA"
+    },
+    {
+        "NOME": "INTERBAIRROS I (ANTI-HORÁRIO)",
+        "COD": "011",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "VERDE"
+    },
+    {
+        "NOME": "INTERBAIRROS I (HORÁRIO)",
+        "COD": "010",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "VERDE"
+    },
+    {
+        "NOME": "INTERBAIRROS II (ANTI-HORÁRIO)",
+        "COD": "021",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "VERDE"
+    },
+    {
+        "NOME": "INTERBAIRROS II (HORÁRIO)",
+        "COD": "020",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "VERDE"
+    },
+    {
+        "NOME": "INTERBAIRROS III",
+        "COD": "030",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "VERDE"
+    },
+    {
+        "NOME": "INTERBAIRROS IV",
+        "COD": "040",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "VERDE"
+    },
+    {
+        "NOME": "INTERBAIRROS V",
+        "COD": "050",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "VERDE"
+    },
+    {
+        "NOME": "INTERBAIRROS VI",
+        "COD": "060",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "VERDE"
+    },
+    {
+        "NOME": "INTER-HOSPITAIS",
+        "COD": "378",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "ITAMARATI",
+        "COD": "512",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "ITATIAIA",
+        "COD": "711",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "ITUPAVA / HOSP. MILITAR",
+        "COD": "366",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "JD. CENTAURO",
+        "COD": "468",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "JD. CHAPARRAL",
+        "COD": "183",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "JD. DA ORDEM",
+        "COD": "655",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "JD. DO ARROIO",
+        "COD": "244",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "JD. ESPLANADA",
+        "COD": "865",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "JD. INDEPENDÊNCIA / CIC",
+        "COD": "712",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "JD. IPÊ",
+        "COD": "917",
+        "SOMENTE_CARTAO": "F",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "JD. ITÁLIA",
+        "COD": "972",
+        "SOMENTE_CARTAO": "F",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "JD. ITIBERÊ",
+        "COD": "474",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "JD. KOSMOS",
+        "COD": "169",
+        "SOMENTE_CARTAO": "F",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "JD. LUDOVICA",
+        "COD": "617",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "JD. MERCÊS / GUANABARA",
+        "COD": "160",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "JD. PARANAENSE",
+        "COD": "532",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "JD. SOCIAL / BATEL",
+        "COD": "365",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "JOSÉ CULPI",
+        "COD": "912",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "JOSÉ CULPI / VENEZA",
+        "COD": "938",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "JÚLIO GRAF",
+        "COD": "967",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "JUVEVÊ / ÁGUA VERDE",
+        "COD": "285",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "KAMYR",
+        "COD": "656",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "KAMYR/QUARTEL GENERAL",
+        "COD": "600",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "LARANJEIRAS",
+        "COD": "271",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "LIGEIRÃO BOQUEIRÃO",
+        "COD": "500",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "VERMELHA"
+    },
+    {
+        "NOME": "LIGEIRÃO PINHEIRINHO / C. GOMES",
+        "COD": "550",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "VERMELHA"
+    },
+    {
+        "NOME": "LIGEIRÃO STA.CÂNDIDA / PÇA.DO JAPÃO",
+        "COD": "200",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "VERMELHA"
+    },
+    {
+        "NOME": "LINDÓIA",
+        "COD": "661",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "LONDRINA",
+        "COD": "635",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "LUIZ NICHELE",
+        "COD": "641",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "MAD. ABRANCHES",
+        "COD": "189",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "MADRUGUEIRO"
+    },
+    {
+        "NOME": "MAD. BAIRRO NOVO",
+        "COD": "549",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "MADRUGUEIRO"
+    },
+    {
+        "NOME": "MAD. BOQUEIRÃO",
+        "COD": "509",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "MADRUGUEIRO"
+    },
+    {
+        "NOME": "MAD. CAIUÁ",
+        "COD": "789",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "MADRUGUEIRO"
+    },
+    {
+        "NOME": "MAD. CAMPO COMPRIDO",
+        "COD": "809",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "MADRUGUEIRO"
+    },
+    {
+        "NOME": "MAD. CENTENÁRIO",
+        "COD": "309",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "MADRUGUEIRO"
+    },
+    {
+        "NOME": "MAD. CENTENÁRIO / RUI BARBOSA",
+        "COD": "308",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "MADRUGUEIRO"
+    },
+    {
+        "NOME": "MAD. CIC",
+        "COD": "609",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "MADRUGUEIRO"
+    },
+    {
+        "NOME": "MAD. PENHA / F. NORONHA",
+        "COD": "229",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "MADRUGUEIRO"
+    },
+    {
+        "NOME": "MAD. PETRÓPOLIS / SOLITUDE",
+        "COD": "489",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "MADRUGUEIRO"
+    },
+    {
+        "NOME": "MAD. PILARZINHO / UBERABA",
+        "COD": "188",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "MADRUGUEIRO"
+    },
+    {
+        "NOME": "MAD. PINHEIRINHO",
+        "COD": "608",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "MADRUGUEIRO"
+    },
+    {
+        "NOME": "MAD. S. CÂNDIDA / C. RASO",
+        "COD": "209",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "MADRUGUEIRO"
+    },
+    {
+        "NOME": "MAD. S. FRANCISCO / IGUAPE",
+        "COD": "519",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "MADRUGUEIRO"
+    },
+    {
+        "NOME": "MAD. S. PEDRO / R. NEGRO",
+        "COD": "689",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "MADRUGUEIRO"
+    },
+    {
+        "NOME": "MAD. SÃO BRÁZ",
+        "COD": "889",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "MADRUGUEIRO"
+    },
+    {
+        "NOME": "MAD. STA. FELICIDADE",
+        "COD": "989",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "MADRUGUEIRO"
+    },
+    {
+        "NOME": "MAD. TARUMÃ / AUGUSTA",
+        "COD": "389",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "MADRUGUEIRO"
+    },
+    {
+        "NOME": "MAD. TATUQUARA",
+        "COD": "679",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "MADRUGUEIRO"
+    },
+    {
+        "NOME": "MAD. V. VELHA",
+        "COD": "788",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "MADRUGUEIRO"
+    },
+    {
+        "NOME": "MAL. HERMES / STA. EFIGÊNIA",
+        "COD": "260",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "MARIA ANGÉLICA",
+        "COD": "633",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "MARINGÁ",
+        "COD": "522",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "MÁRIO JORGE",
+        "COD": "721",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "MATEUS LEME",
+        "COD": "181",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "MENONITAS",
+        "COD": "594",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "MERCÚRIO",
+        "COD": "331",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "MONTANA",
+        "COD": "812",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "MOSSUNGUÊ",
+        "COD": "814",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "NIVALDO BRAGA",
+        "COD": "521",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "NOVENA",
+        "COD": "360",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "NOVO MUNDO",
+        "COD": "666",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "NSA. SRA. DA LUZ",
+        "COD": "674",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "NSA.SRA.DE NAZARÉ",
+        "COD": "280",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "OLARIA",
+        "COD": "233",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "OSTERNACK / BOQUEIRÃO",
+        "COD": "535",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "OSTERNACK / S. CERCADO",
+        "COD": "548",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "OSTERNACK / S. CERCADO L.D.",
+        "COD": "520",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "PRATA"
+    },
+    {
+        "NOME": "OURO VERDE (VIA VL.BÁDIA)",
+        "COD": "915",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "PAINEIRAS",
+        "COD": "272",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "PALMEIRA",
+        "COD": "640",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "PALOTINOS",
+        "COD": "387",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "PARAÍSO",
+        "COD": "343",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "PARIGOT DE SOUZA",
+        "COD": "534",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "PARQUE INDUSTRIAL",
+        "COD": "623",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "PARQUE TANGUÁ",
+        "COD": "176",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "PASSAÚNA",
+        "COD": "911",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "PASSAÚNA / JD.IPÊ",
+        "COD": "928",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "PETRÓPOLIS",
+        "COD": "462",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "PINHAIS / C. COMPRIDO",
+        "COD": "304",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "PRATA"
+    },
+    {
+        "NOME": "PINHEIRINHO",
+        "COD": "638",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "PINHEIRINHO / CIC",
+        "COD": "644",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "PINHEIRINHO / ZOOLÓGICO",
+        "COD": "688",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "PINHEIRINHO/BOQUEIRAO",
+        "COD": "527",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "PRATA"
+    },
+    {
+        "NOME": "PINHEIRINHO/CABRAL",
+        "COD": "700",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "PRATA"
+    },
+    {
+        "NOME": "PINHEIRINHO/PREFEITURA",
+        "COD": "X35",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "PRATA"
+    },
+    {
+        "NOME": "PINHEIRINHO/RUI BARBOSA",
+        "COD": "603",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "VERMELHA"
+    },
+    {
+        "NOME": "PINHEIROS",
+        "COD": "916",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "PIRATINI / BR 476",
+        "COD": "631",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "PIRINEUS",
+        "COD": "649",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "POMPEIA/JANAINA",
+        "COD": "646",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "PORTÃO",
+        "COD": "671",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "PORTÃO / CIC",
+        "COD": "612",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "PORTAO / STA. BERNADETHE - L. VERDE",
+        "COD": "616",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "PORTAO/SITIO CERCADO",
+        "COD": "X20",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "VERMELHA"
+    },
+    {
+        "NOME": "PORTO BELO",
+        "COD": "718",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "PRIMAVERA",
+        "COD": "171",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "PUC/RODOFERROVIARIA",
+        "COD": "518",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "PRATA"
+    },
+    {
+        "NOME": "QUARTEL GENERAL",
+        "COD": "632",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "RAPOSO TAVARES",
+        "COD": "168",
+        "SOMENTE_CARTAO": "F",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "REF. GUADALUPE / FAZENDINHA",
+        "COD": "X36",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "PRATA"
+    },
+    {
+        "NOME": "REFORÇO C.IMBUIA",
+        "COD": "X30",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "PRATA"
+    },
+    {
+        "NOME": "REFORÇO HAUER",
+        "COD": "X14",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "REFORÇO PORTÃO",
+        "COD": "X22",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "PRATA"
+    },
+    {
+        "NOME": "REFORÇO TUIUTI",
+        "COD": "815",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "RIO BONITO",
+        "COD": "684",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "RIO BONITO / CIC",
+        "COD": "685",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "RIO NEGRO",
+        "COD": "636",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "RIVIERA",
+        "COD": "827",
+        "SOMENTE_CARTAO": "F",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "RONDON",
+        "COD": "622",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "R.PRADO/C.GOMES",
+        "COD": "164",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "RUA XV / BARIGUI",
+        "COD": "370",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "RURBANA",
+        "COD": "680",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "S. CERCADO / C. RASO",
+        "COD": "610",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "PRATA"
+    },
+    {
+        "NOME": "SABARÁ",
+        "COD": "653",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "SAGRADO CORAÇÃO",
+        "COD": "375",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "SAMBAQUI",
+        "COD": "552",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "SÃO BENEDITO",
+        "COD": "236",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "SÃO BERNARDO",
+        "COD": "965",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "SÃO BRAZ",
+        "COD": "870",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "SÃO FRANCISCO",
+        "COD": "511",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "SÃO JOÃO",
+        "COD": "213",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "SÃO JORGE",
+        "COD": "670",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "SATURNO",
+        "COD": "811",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "SAVÓIA",
+        "COD": "876",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "SITIO CERCADO / C. RASO",
+        "COD": "X11",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "VERMELHA"
+    },
+    {
+        "NOME": "SÍTIO CERCADO (ANTI-HORÁRIO)",
+        "COD": "508",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "PRATA"
+    },
+    {
+        "NOME": "SÍTIO CERCADO (HORÁRIO)",
+        "COD": "507",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "PRATA"
+    },
+    {
+        "NOME": "SOLAR",
+        "COD": "212",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "SOLITUDE",
+        "COD": "463",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "STA. AMÉLIA",
+        "COD": "713",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "STA. BARBARA",
+        "COD": "461",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "STA. CÂNDIDA / C. RASO",
+        "COD": "203",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "VERMELHA"
+    },
+    {
+        "NOME": "STA. CRUZ",
+        "COD": "620",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "STA. FELICIDADE",
+        "COD": "901",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "STA. FELICIDADE / PCA.TIRADENTES",
+        "COD": "902",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "PRATA"
+    },
+    {
+        "NOME": "STA. FELICIDADE / STA. CÂNDIDA",
+        "COD": "924",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "STA. GEMA",
+        "COD": "274",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "STA. INÊS",
+        "COD": "531",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "STA. JOANA",
+        "COD": "637",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "STA. QUITÉRIA",
+        "COD": "760",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "STA. RITA / CIC",
+        "COD": "619",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "STA. RITA / PINHEIRINHO",
+        "COD": "650",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "STA. TEREZINHA",
+        "COD": "243",
+        "SOMENTE_CARTAO": "F",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "STA.AMELIA/P.BELO",
+        "COD": "710",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "TARUMÃ",
+        "COD": "372",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "TINGUI",
+        "COD": "214",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "TRABALHADOR",
+        "COD": "545",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "TRAMONTINA",
+        "COD": "861",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "TRINDADE",
+        "COD": "321",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "TUPY/JULIANA",
+        "COD": "672",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "TUPY/JULIANA",
+        "COD": "772",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "TURISMO",
+        "COD": "979",
+        "SOMENTE_CARTAO": "M",
+        "NOME_COR": "TURISMO"
+    },
+    {
+        "NOME": "UBERABA",
+        "COD": "472",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "UBERLÂNDIA",
+        "COD": "615",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "UMBARÁ",
+        "COD": "643",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "UNIBRASIL / TUBO DETRAN",
+        "COD": "Z01",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "UNIVERSIDADES",
+        "COD": "165",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "UNIV.POSITIVO",
+        "COD": "829",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "V. AUTÓDROMO",
+        "COD": "323",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "V. CUBAS",
+        "COD": "663",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "V. ESPERANÇA",
+        "COD": "222",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "V. IZABEL",
+        "COD": "761",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "V. JULIANA",
+        "COD": "690",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "V. LEONICE",
+        "COD": "242",
+        "SOMENTE_CARTAO": "F",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "V. MACEDO",
+        "COD": "467",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "V. MARISA",
+        "COD": "714",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "V. MARQUETO",
+        "COD": "825",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "V. NORI",
+        "COD": "166",
+        "SOMENTE_CARTAO": "F",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "V. RENO",
+        "COD": "336",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "V. REX",
+        "COD": "665",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "V. ROSINHA",
+        "COD": "762",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "V. SANDRA",
+        "COD": "860",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "V. SÃO PAULO",
+        "COD": "471",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "V. SÃO PEDRO",
+        "COD": "624",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "V. SUIÇA",
+        "COD": "184",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "V. VELHA",
+        "COD": "777",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "V. VERDE",
+        "COD": "652",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "VENEZA",
+        "COD": "918",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "VIC. DE CARVALHO / C. IMBUIA",
+        "COD": "Z03",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "VILA VELHA/BURITI",
+        "COD": "779",
+        "SOMENTE_CARTAO": "S",
+        "NOME_COR": "AMARELA"
+    },
+    {
+        "NOME": "VITÓRIA RÉGIA",
+        "COD": "630",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "XAXIM / CAPÃO RASO",
+        "COD": "657",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    },
+    {
+        "NOME": "ZOOLÓGICO",
+        "COD": "536",
+        "SOMENTE_CARTAO": "N",
+        "NOME_COR": "LARANJA"
+    }
+]
